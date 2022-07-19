@@ -62,10 +62,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TnH-mq-q5n">
-                                <rect key="frame" x="220" y="273" width="87" height="31"/>
+                                <rect key="frame" x="216" y="273" width="95" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Complete"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Completed"/>
                                 <connections>
                                     <action selector="completeTapped:" destination="x2G-O5-Xpx" eventType="touchUpInside" id="5X3-Th-L0x"/>
                                 </connections>
